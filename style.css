@@ -1,0 +1,37 @@
+body{
+    background-size:100%;
+}
+
+.heading{
+       font-size:23px;
+       width:100%;
+       margin: 0px;
+       box-shadow: 5px 5px 5px grey;
+}
+
+b{
+       color:rgb(252, 235, 7);
+       font-size: 18px;
+       font-family: 'Italianno', cursive;
+}
+
+.note{
+       font-size: 15px;
+       color:mediumvioletred;
+}
+
+.copy_right_footer{
+      position: fixed;
+      color:white;
+      bottom: 0;
+      width:100%;
+      background-color: grey;
+      line-height:2.5;
+      text-align: center;
+}
+
+canvas{
+       border: 5px solid white;
+       border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+   }
