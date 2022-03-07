@@ -1,37 +1,29 @@
-body{
-    background-size:100%;
-}
-
 .heading{
-       font-size:23px;
-       width:100%;
        margin: 0px;
-       box-shadow: 5px 5px 5px grey;
-}
-
-b{
-       color:rgb(252, 235, 7);
-       font-size: 18px;
-       font-family: 'Italianno', cursive;
-}
-
-.note{
+       box-shadow: 3px 3px 3px grey;
+       font-weight: bold;
        font-size: 15px;
-       color:mediumvioletred;
+       width: 100%;
+}
+.note{
+       color: black;
 }
 
 .copy_right_footer{
-      position: fixed;
-      color:white;
-      bottom: 0;
-      width:100%;
-      background-color: grey;
-      line-height:2.5;
-      text-align: center;
+       text-align: center;
+       width: 100%;
+       line-height: 3;
+       bottom: 0;
+       background-color: grey;
+       color: white;
+       position: fixed;
+       font-weight: bold;
+       font-size: 20px;
 }
 
 canvas{
+       box-shadow: 5px 5px 5px grey;
+       background-color: white;
        border: 5px solid white;
        border-radius: 20px;
-    box-shadow: 5px 5px 5px grey;
-   }
+}
